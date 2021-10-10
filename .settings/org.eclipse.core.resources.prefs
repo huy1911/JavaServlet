@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/main/java/nongsan/webmvc/controller/RegistrationController.java=UTF-8
+encoding//src/main/java/nongsan/webmvc/dao/impl/RegisterDao.java=UTF-8
+encoding//src/main/java/nongsan/webmvc/jdbc/connectDB.java=UTF-8
